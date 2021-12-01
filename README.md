@@ -7,9 +7,9 @@ My name is Katarzyna Żebrowska. I am master of music art speciality - rhythmic.
 ISTQB CTFL- CertyficateID:82343
 
 # Skills
-Selen
-Python
-SQL
-Jira
-GitHub
-Postman
+#Selen
+#Python
+#SQL
+#Jira
+#GitHub
+#Postman
