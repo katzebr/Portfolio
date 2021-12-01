@@ -15,9 +15,9 @@ ISTQB CTFL- CertyficateID:82343
 * Postman
 
 # Blogs, thematic pages
-[testerzy.pl](https://testerzy.pl)
-[testuj.pl](https://testuj.pl)
-[remigiusz.bednarczyk.pl](https://remigiuszbednarczyk.pl)
-[wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
-[jaktesowac.pl](https://jaktestowac.pl)
-[flynerd.pl](https://www.flynerd.pl)
+* [testerzy.pl](https://testerzy.pl)
+* [testuj.pl](https://testuj.pl)
+* [remigiusz.bednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
+* [jaktesowac.pl](https://jaktestowac.pl)
+* [flynerd.pl](https://www.flynerd.pl)
